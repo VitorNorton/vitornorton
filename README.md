@@ -16,7 +16,7 @@
 ###
 
   <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,cs,angular,ts,nodejs,php,react,nextjs,aws,wordpress,git,github,postgres,py,cs,cpp,c,dotnet,bootstrap,flutter,linux,mysql,php,ai,ps,pr,ableton,&theme=dark&perline=15" />
+  <img src="https://skillicons.dev/icons?i=vscode,html,css,js,angular,ts,nodejs,php,react,nextjs,aws,wordpress,git,github,docker,postgres,py,cs,cpp,c,dotnet,bootstrap,flutter,linux,mysql,php,ai,ps,pr,ableton,&theme=dark&perline=15" />
   </div>
 
 ###
