@@ -71,7 +71,7 @@
 #### Certifications and Training:
 [<img src="https://hermes.dio.me/tracks/4deb40de-7fb6-4229-a6a5-97185381d577.png" height="50"></a>](https://hermes.dio.me/certificates/BCMZZRBH.pdf)
 [<img src="https://hermes.dio.me/tracks/5d55a4ec-ef34-4222-830f-18dea83ba393.png" height="50"></a>]()
-[<img src="https://hermes.dio.me/tracks/a736ef42-0d2f-4079-adb4-25c55c85ba2b.png" height="50"></a>](https://www.dio.me/certificate/R9MNULYI/share)
+[<img src="https://hermes.dio.me/tracks/a736ef42-0d2f-4079-adb4-25c55c85ba2b.png" height="50"></a>](https://hermes.dio.me/certificates/R9MNULYI.pdf)
 [<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="50"/></a>](https://web.dio.me/track/formacao-dotnet-developer)
 
 </div>
