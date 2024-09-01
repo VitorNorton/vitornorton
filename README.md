@@ -67,16 +67,11 @@
 [<img src="https://hermes.dio.me/tracks/4c796cee-bef5-4048-8fbe-260527c11f45.png" height="50"/></a>](https://web.dio.me/track/bootcamp-tqi-kotlin)
 [<img src="https://hermes.dio.me/tracks/5443980d-31cb-4a9f-8dbd-065773810c04.png" height="50"/></a>](https://web.dio.me/track/orange-tech-backend)
 [<img src="https://hermes.dio.me/tracks/041777d8-a929-4126-a914-08e69ed3f731.png" height="50"/></a>](https://web.dio.me/track/kotlin-experience)
-[<img src="https://hermes.dio.me/tracks/12da0c17-5b91-4e81-b6e9-92e3ee3b83f6.png" height="50"/></a>](https://web.dio.me/track/trainee-grupo-carrefour-brasil-lideranca-negra)
-[<img src="https://hermes.dio.me/tracks/9a1e80de-6b42-4f59-97be-15e1493aa96f.png" height="50"/></a>](https://web.dio.me/track/pottencial-net-developer)
-
-
-
 
 #### Certifications and Training:
 [<img src="https://hermes.dio.me/tracks/4deb40de-7fb6-4229-a6a5-97185381d577.png" height="50"></a>](https://hermes.dio.me/certificates/BCMZZRBH.pdf)
 [<img src="https://hermes.dio.me/tracks/5d55a4ec-ef34-4222-830f-18dea83ba393.png" height="50"></a>]()
-[<img src="https://hermes.dio.me/tracks/a736ef42-0d2f-4079-adb4-25c55c85ba2b.png" height="50"></a>]()
+[<img src="https://hermes.dio.me/tracks/a736ef42-0d2f-4079-adb4-25c55c85ba2b.png" height="50"></a>](https://www.dio.me/certificate/R9MNULYI/share)
 [<img src="https://hermes.dio.me/tracks/169e3d0f-263a-4efb-86c5-244bdf1ce8d6.png" height="50"/></a>](https://web.dio.me/track/formacao-dotnet-developer)
 
 </div>
