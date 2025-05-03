@@ -25,8 +25,9 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35 target="_blank"></a>
   <a href="https://www.instagram.com/ovitornorton/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35 target="_blank"></a>
  	<a href="https://www.twitch.tv/snapbk_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="35 target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35 target="_blank"></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="35 target="_blank"></a> 
   <a href="https://www.linkedin.com/in/vitornorton/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35 target="_blank"></a> 
+  <a href="https://www.tiktok.com/@vitornorton" target="_blank"><img src="https://img.shields.io/badge/-tiktok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="35 target="_blank></a> 
   
   
 </div>
