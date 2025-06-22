@@ -59,7 +59,6 @@
 [<img src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" height="50"/></a>](https://web.dio.me/track/santander-bootcamp-2023-ciencia-de-dados-com-python)
 [<img src="https://hermes.dio.me/tracks/bdc7cc19-c796-46a2-b767-e8bdc201fcb8.png" height="50"/></a>](https://hermes.dio.me/certificates/IAGPRTKC.pdf)
 [<img src="https://assets.dio.me/lyW2IKpchoAbvVoqBJy0WDzoCtFu717R9VLLRZm7u-8/f:webp/h:120/q:80/L3RyYWNrcy9iODhmMTE3Zi04MjllLTQ1NDYtOGYwYi00NTYwY2U0MjMxMDgucG5n" height="50"/></a>](https://hermes.dio.me/certificates/SPAF9CQI.pdf)
-#### Certifications and Training:
 [<img src="https://hermes.dio.me/tracks/4deb40de-7fb6-4229-a6a5-97185381d577.png" height="50"></a>](https://hermes.dio.me/certificates/BCMZZRBH.pdf)
 [<img src="https://hermes.dio.me/tracks/5d55a4ec-ef34-4222-830f-18dea83ba393.png" height="50"></a>](https://hermes.dio.me/certificates/XLZEJK13.pdf)
 [<img src="https://hermes.dio.me/tracks/a736ef42-0d2f-4079-adb4-25c55c85ba2b.png" height="50"></a>](https://hermes.dio.me/certificates/R9MNULYI.pdf)
