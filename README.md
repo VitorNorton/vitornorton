@@ -53,16 +53,16 @@
   
 #### Bootcamps and Courses:
 
-[<img src=https://hermes.dio.me/tracks/0a65ba61-a8fa-46d9-88aa-dbebb029583e.png height="50"></a>](https://hermes.dio.me/certificates/1BJHMPAF.pdf)
-[<img src=https://hermes.dio.me/tracks/a123a707-54de-4a67-88ee-5c129beb14d7.png height="50"></a>](https://hermes.dio.me/certificates/HRF2HQGD.pdf)
-[<img src="https://hermes.dio.me/tracks/f5dba255-da18-427a-a02a-ca11a339c1cd.png" height="50"/></a>](https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python)
-[<img src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" height="50"/></a>](https://web.dio.me/track/santander-bootcamp-2023-ciencia-de-dados-com-python)
-[<img src="https://hermes.dio.me/tracks/bdc7cc19-c796-46a2-b767-e8bdc201fcb8.png" height="50"/></a>](https://hermes.dio.me/certificates/IAGPRTKC.pdf)
-[<img src="https://assets.dio.me/lyW2IKpchoAbvVoqBJy0WDzoCtFu717R9VLLRZm7u-8/f:webp/h:120/q:80/L3RyYWNrcy9iODhmMTE3Zi04MjllLTQ1NDYtOGYwYi00NTYwY2U0MjMxMDgucG5n" height="50"/></a>](https://hermes.dio.me/certificates/SPAF9CQI.pdf)
-[<img src="https://hermes.dio.me/tracks/4deb40de-7fb6-4229-a6a5-97185381d577.png" height="50"></a>](https://hermes.dio.me/certificates/BCMZZRBH.pdf)
-[<img src="https://hermes.dio.me/tracks/5d55a4ec-ef34-4222-830f-18dea83ba393.png" height="50"></a>](https://hermes.dio.me/certificates/XLZEJK13.pdf)
-[<img src="https://hermes.dio.me/tracks/a736ef42-0d2f-4079-adb4-25c55c85ba2b.png" height="50"></a>](https://hermes.dio.me/certificates/R9MNULYI.pdf)
-
+[<img src=https://hermes.dio.me/tracks/0a65ba61-a8fa-46d9-88aa-dbebb029583e.png height="80"></a>](https://hermes.dio.me/certificates/1BJHMPAF.pdf)
+[<img src=https://hermes.dio.me/tracks/a123a707-54de-4a67-88ee-5c129beb14d7.png height="80"></a>](https://hermes.dio.me/certificates/HRF2HQGD.pdf)
+[<img src="https://hermes.dio.me/tracks/f5dba255-da18-427a-a02a-ca11a339c1cd.png" height="80"/></a>](https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python)
+[<img src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" height="80"/></a>](https://web.dio.me/track/santander-bootcamp-2023-ciencia-de-dados-com-python)
+[<img src="https://hermes.dio.me/tracks/bdc7cc19-c796-46a2-b767-e8bdc201fcb8.png" height="80"/></a>](https://hermes.dio.me/certificates/IAGPRTKC.pdf)
+[<img src="https://hermes.dio.me/tracks/b88f117f-829e-4546-8f0b-4560ce423108.png" height="80"/></a>](https://hermes.dio.me/certificates/SPAF9CQI.pdf)
+[<img src="https://hermes.dio.me/tracks/4deb40de-7fb6-4229-a6a5-97185381d577.png" height="80"></a>](https://hermes.dio.me/certificates/BCMZZRBH.pdf)
+[<img src="https://hermes.dio.me/tracks/5d55a4ec-ef34-4222-830f-18dea83ba393.png" height="80"></a>](https://hermes.dio.me/certificates/XLZEJK13.pdf)
+[<img src="https://hermes.dio.me/tracks/a736ef42-0d2f-4079-adb4-25c55c85ba2b.png" height="80"></a>](https://hermes.dio.me/certificates/R9MNULYI.pdf)
+[<img src="https://hermes.dio.me/tracks/a114aa74-854a-455b-8169-dc9157712b27.png" height="80"></a>](https://hermes.dio.me/certificates/R9MNULYI.pdf)
 
 </div>
 
