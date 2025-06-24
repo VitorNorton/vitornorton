@@ -53,8 +53,8 @@
   
 #### Bootcamps and Courses:
 
-[<img src=https://hermes.dio.me/tracks/0a65ba61-a8fa-46d9-88aa-dbebb029583e.png height="80"></a>](https://hermes.dio.me/certificates/1BJHMPAF.pdf)
-[<img src=https://hermes.dio.me/tracks/a123a707-54de-4a67-88ee-5c129beb14d7.png height="80"></a>](https://hermes.dio.me/certificates/HRF2HQGD.pdf)
+[<img src="https://hermes.dio.me/tracks/0a65ba61-a8fa-46d9-88aa-dbebb029583e.png" height="95"></a>](https://hermes.dio.me/certificates/1BJHMPAF.pdf)
+[<img src="https://hermes.dio.me/tracks/a123a707-54de-4a67-88ee-5c129beb14d7.png" height="98"></a>](https://hermes.dio.me/certificates/HRF2HQGD.pdf)
 [<img src="https://hermes.dio.me/tracks/f5dba255-da18-427a-a02a-ca11a339c1cd.png" height="80"/></a>](https://web.dio.me/track/potencia-tech-powered-ifood-ciencias-de-dados-com-python)
 [<img src="https://hermes.dio.me/tracks/03253ff0-95b9-4904-84e7-2063e9d6cb26.png" height="80"/></a>](https://web.dio.me/track/santander-bootcamp-2023-ciencia-de-dados-com-python)
 [<img src="https://hermes.dio.me/tracks/bdc7cc19-c796-46a2-b767-e8bdc201fcb8.png" height="80"/></a>](https://hermes.dio.me/certificates/IAGPRTKC.pdf)
