@@ -43,8 +43,6 @@
 ###
 
 <div align="center">
-
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VitorNorton&theme=dark&layout=compact"/>
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vitornorton&show_icons=true&count_private=true&hide_border=true&title_color=B03A2E&icon_color=B03A2E&text_color=c9d1d9&bg_color=0d1117" alt="vitornorton's github stats" /> 
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitornorton&layout=compact&hide_border=true&title_color=B03A2E&text_color=B03A2E&bg_color=0d1117" />
